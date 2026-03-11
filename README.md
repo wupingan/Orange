@@ -13,23 +13,7 @@
 
 ---
 
-<div align="center">
 
----
-📢 **广告位** 📢
-
-**感谢 MotionPay 对本项目的支持，以下是他们提供的内容**
----
-
-## 💳 MotionPay - 专业支付解决方案
-
-**MotionPay** - 低费率·稳定可靠·快速结算
-
-📋 [服务详情](https://t.me/Motionzf/206) | 💬 [业务咨询](https://t.me/MotionIDC) | 🤖 [客服支持](https://t.me/MotionPaySupportBot)
-
----
-
-</div>
 
 ---
 
